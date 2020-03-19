@@ -1,0 +1,13 @@
+2020-03-06 18:42:13.986  INFO 5932 --- [main] c.w.h.HelloSpringBootApplication         : Starting HelloSpringBootApplication on DESKTOP-UA30DFT with PID 5932 (D:\workspaces\hello-spring-boot\target\classes started by songw in D:\workspaces\hello-spring-boot)
+2020-03-06 18:42:13.989  INFO 5932 --- [main] c.w.h.HelloSpringBootApplication         : No active profile set, falling back to default profiles: default
+2020-03-06 18:42:15.949  INFO 5932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-03-06 18:42:15.962  INFO 5932 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-06 18:42:15.962  INFO 5932 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-06 18:42:16.084  INFO 5932 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2020-03-06 18:42:16.084  INFO 5932 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2027 ms
+2020-03-06 18:42:16.260  INFO 5932 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-06 18:42:16.411  INFO 5932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path '/boot'
+2020-03-06 18:42:16.413  INFO 5932 --- [main] c.w.h.HelloSpringBootApplication         : Started HelloSpringBootApplication in 2.964 seconds (JVM running for 3.523)
+2020-03-06 20:09:47.803  INFO 5932 --- [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-06 20:09:47.804  INFO 5932 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-06 20:09:47.852  INFO 5932 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 48 ms
